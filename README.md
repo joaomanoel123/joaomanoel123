@@ -1,4 +1,4 @@
-### Olá! eu sou joão Manoel👋
+### Olá! eu sou João Manoel👋
 
 ![ manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomanoel&show_icons=true&theme=radical)
 
